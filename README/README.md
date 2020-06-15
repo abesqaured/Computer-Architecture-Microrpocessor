@@ -1,8 +1,9 @@
 # ECE475 Computer Architecture
+This project was considered a final in ECE 475 Computer Architecture Class. This readme file explains what was required and had the ciruit that my group developed. 
 
 # LEGv8 Microprocessor Project
 
-You are required to design, implement and test a simple 64-bit LEGv8processor using a Control Unit and Data Path design. Your design can be based on the block diagram shown below and discussed in class but must incorporate the changes and additions delineated in Figure 2. It should be implemented on the NexSys4 FPGA development board. You will conduct this project in groups of 4.
+This project required to design, implement and test a simple 64-bit LEGv8processor using a Control Unit and Data Path design. Your design can be based on the block diagram shown below and discussed in class but must incorporate the changes and additions delineated in Figure 2. It should be implemented on the NexSys4 FPGA development board. You will conduct this project in groups of 4.
 
 A single cycle implementation will be sufficient to pass the project but a multiple-cycle (fetch-decode-execute) State-Machine Control Unit design (with tailored execution cycles depending on the instruction) is required for full credit. A multiple cycle Control Unit may use more control lines than are shown in the single-cycle implantation below. ![](RackMultipart20200615-4-16dbf3d_html_ac3594967d91402b.png)
 
