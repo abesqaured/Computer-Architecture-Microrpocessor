@@ -7,6 +7,7 @@ You are required to design, implement and test a simple 64-bit LEGv8processor us
 A single cycle implementation will be sufficient to pass the project but a multiple-cycle (fetch-decode-execute) State-Machine Control Unit design (with tailored execution cycles depending on the instruction) is required for full credit. A multiple cycle Control Unit may use more control lines than are shown in the single-cycle implantation below. ![](RackMultipart20200615-4-16dbf3d_html_ac3594967d91402b.png)
 
 **Figure 1: General LEGv8 Processor design for single cycle implementation**
+(FOUND IN README FOLDER)
 
 ## II. Requirements
 
@@ -28,6 +29,7 @@ The modified data path is shown below:
 ![](RackMultipart20200615-4-16dbf3d_html_e2dd3a388f239138.gif)
 
 **Figure 2: Modified Data path for LEGv8 processor**
+(FOUND IN README FOLDER)
 
 1. You are required to implement the following instructions in your microprocessor instruction set:
 
