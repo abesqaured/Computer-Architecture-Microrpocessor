@@ -1,2 +1,0 @@
-Language File-Name                        IP              Library         File-Path                                                                                   
-VHDL,    InstructionRam_sim_netlist.vhdl, InstructionRam, xil_defaultlib, ../../../../FinalProject475.srcs/sources_1/ip/InstructionRam/InstructionRam_sim_netlist.vhdl

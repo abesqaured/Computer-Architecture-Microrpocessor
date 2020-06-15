@@ -1,0 +1,2 @@
+Language File-Name                 IP       Library         File-Path                                                                     
+VHDL,    DataRam_sim_netlist.vhdl, DataRam, xil_defaultlib, ../../../../FinalProject475.srcs/sources_1/ip/DataRam/DataRam_sim_netlist.vhdl
